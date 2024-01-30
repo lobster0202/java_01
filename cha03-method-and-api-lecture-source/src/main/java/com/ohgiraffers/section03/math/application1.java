@@ -30,12 +30,5 @@ public class application1 {
         /*난수 출력
         * 0부터 1 전까지의 실수 형태의 난수를 발생시킨다.*/
         System.out.println("난수 발생 : " + Math.random());
-
-
-
-
-
-
-
     }
 }
