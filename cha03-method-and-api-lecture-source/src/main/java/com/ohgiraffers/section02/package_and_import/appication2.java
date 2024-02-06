@@ -19,7 +19,6 @@ public class appication2 {
 
         /* static 메소드 */
         int max = calculator.maxNumberOf(50, 60);
-
         System.out.println("더 큰 수는? : " + max);
 
         /* 동일한 클래스 내에 작성된 static 메소드는 클래스명 생략 가능*/
@@ -27,10 +26,5 @@ public class appication2 {
         int max2 = maxNumberOf(100,200);
 
         //(석현) 위에 굳이 안쓰고 오류 뜨면 import 클래스 뭐시기 뜨는데 그거 눌러서 하는 방법도 있음
-
-
-
-
-
     }
 }

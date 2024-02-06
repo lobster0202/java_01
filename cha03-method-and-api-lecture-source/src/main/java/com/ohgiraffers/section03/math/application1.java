@@ -5,7 +5,7 @@ import java.text.Format;
 public class application1 {
     public static void main(String[] args) {
 
-        /*A PI란?
+        /*API란?
         * Application Programming Interface 는 응용프로그램에서 사용할 수 있도록,
         * 운영체제나 프로그래밍 언어가 제공하는 기능을 제어할 수 있도록 만든 인터페이스.
         * JDK를 설치하면 사용할 수 있도록 제공해놓은 소스코드를 의미. */

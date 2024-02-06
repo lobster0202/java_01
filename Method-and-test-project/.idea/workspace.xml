@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5e072981-a5dc-455d-90c6-e1127f72cec1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/test1/application_클래스.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/test1/testMethod클래스.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/test2/applicaiton_클래스.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cha03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/출력클래스/문제4_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap01-literal-and-variable-lecture-source/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/section02/looping/B_while.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/section02/looping/C_doWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/반복문_실습문제/hang3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/반복문_실습문제/practice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/반복문_실습문제/practice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/반복문_실습문제/문제1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/반복문_실습문제/문제2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/조건문_실습문제/문제4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cha03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section02/package_and_import/appication2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cha03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section02/package_and_import/appication2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cha03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/출력클래스/문제2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cha03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/출력클래스/문제2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cha03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/출력클래스/문제3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cha03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/출력클래스/문제3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cha03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/출력클래스/문제4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cha03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/출력클래스/문제4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/section02/looping/A_for.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/section02/looping/A_for.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/section02/looping/application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/section02/looping/application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/실습문제/문제1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/조건문_실습문제/문제1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/실습문제/문제2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/조건문_실습문제/문제2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/실습문제/문제3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/조건문_실습문제/문제3.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2bhfCWi6GEDjVQmMd0XnbyzxXlc" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Method-and-test-project [:applicaiton_클래스.main()].executor": "Run",
+    "Gradle.Method-and-test-project [:testMethod클래스.main()].executor": "Run",
+    "Gradle.Method-and-test-project [:문제3.main()].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/dev/lecture_code/JavaFoundation/Method-and-test-project/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-temurin-17.0.10-f644763e9732-8a10ee56" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e072981-a5dc-455d-90c6-e1127f72cec1" name="Changes" comment="" />
+      <created>1706672103521</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706672103521</updated>
+      <workItem from="1706672104525" duration="11325000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ohgiraffers/test1/testMethod클래스.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ohgiraffers/test1/testMethod클래스.java</url>
+          <line>43</line>
+          <properties class="com.ohgiraffers.test1.testMethod클래스" method="CircleArea">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

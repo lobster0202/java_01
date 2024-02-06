@@ -17,7 +17,6 @@ public class A_for {
         /* 1부터 10까지 1씩 증가시키면서 i 값을 출력하는 기본 반복문 */
         for (int i = 1; i <= 10; i++) {
             System.out.println(i);
-
         }
     }
 
@@ -106,7 +105,7 @@ public class A_for {
         System.out.println("sum : " + sum2);
     }
     public void testForExample3() {
-        int random = (int)( Math.random() * 6) + 5;
+        int random = (int)(Math.random() * 6) + 5;
         System.out.println("random : " + random);
 
         int sum = 0;
