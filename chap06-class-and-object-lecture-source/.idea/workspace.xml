@@ -4,154 +4,46 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57fbac3a-6966-4ea2-bc41-5c9368217dce" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Method-and-test-project/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Method-and-test-project/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Method-and-test-project/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Method-and-test-project/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Method-and-test-project/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Method-and-test-project/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Method-and-test-project/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Method-and-test-project/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Method-and-test-project/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Method-and-test-project/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Method-and-test-project/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Method-and-test-project/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Method-and-test-project/src/main/java/com/ohgiraffers/test1/application_클래스.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Method-and-test-project/src/main/java/com/ohgiraffers/test1/testMethod클래스.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Method-and-test-project/src/main/java/com/ohgiraffers/test2/applicaiton_클래스.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../array_test/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../array_test/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../array_test/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../array_test/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../array_test/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../array_test/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../array_test/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../array_test/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../array_test/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../array_test/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../array_test/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../array_test/src/main/java/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../array_test/src/main/java/test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../array_test/src/main/java/test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../backjoone/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../backjoone/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../backjoone/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../backjoone/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../backjoone/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../backjoone/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../backjoone/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../backjoone/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../backjoone/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../backjoone/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../backjoone/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../backjoone/src/main/java/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cha03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/study1_method/method1_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cha03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/study1_method/method2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cha03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/study1_method/method3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cha03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/study1_method/method7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cha03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/study2_main/main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cha03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/study2_main/main4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cha03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/study2_main/main5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cha03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/study2_main/main6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cha03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/study2_main/main7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cha03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/study2_main/main8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cha03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/study2_main/main9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cha03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/출력클래스_스터디/문제2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cha03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/출력클래스_스터디/문제3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cha03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/출력클래스_스터디/문제4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cha03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/출력클래스_스터디/문제4_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap01-literal-and-variable-lecture-source/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/section02/looping/B_while.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/section02/looping/C_doWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/section03/branching/A_break.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/section03/branching/B_continue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/section03/branching/application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/반복문_실습문제_선생님/hang3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/반복문_실습문제_선생님/test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/반복문_실습문제_선생님/ㅅㄷㄴㅅ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/반복문_실습문제_선생님/개인연습1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/반복문_실습문제_선생님/개인연습2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/반복문_실습문제_선생님/문제1_오답노트.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/반복문_실습문제_선생님/문제2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/조건문_실습문제_선생님/문제4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/src/main/java/com/ohgiraffers/section01/array/application1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/src/main/java/com/ohgiraffers/section01/array/application2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/src/main/java/com/ohgiraffers/section01/array/application3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/src/main/java/com/ohgiraffers/section01/array/application4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/src/main/java/com/ohgiraffers/section02/demensional/application1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/src/main/java/com/ohgiraffers/section03/copy/application1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/src/main/java/com/ohgiraffers/section03/copy/application2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/src/main/java/com/ohgiraffers/section04/sort/applicaiton1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/src/main/java/com/ohgiraffers/section04/sort/application2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/src/main/java/com/ohgiraffers/section04/sort/application3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/src/main/java/com/test/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/src/main/java/com/test/test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/src/main/java/com/test/test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section01/user_type/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section01/user_type/application1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/encapsulation/problem1/Monster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/encapsulation/problem1/applicaion1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/encapsulation/problem2/Monster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/encapsulation/problem2/application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/encapsulation/solution1/Monster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/encapsulation/solution1/applicaiton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/encapsulation/solution2/Monster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/encapsulation/solution2/applicaiton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section03/abstraction/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section03/abstraction/CarDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section03/abstraction/application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section03/dto/MemberDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section03/dto/application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section04/constructor/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section04/constructor/application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section04/dto/UserDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section04/dto/application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section05/overloading/OverloadingTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section05/parameter/ParameterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section05/parameter/RectAngle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section05/parameter/application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cha03-method-and-api-lecture-source/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cha03-method-and-api-lecture-source/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cha03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section02/package_and_import/appication2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cha03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section02/package_and_import/appication2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cha03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section03/math/application1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cha03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section03/math/application1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cha03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/문제출제/문제1번.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cha03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/study1_method/method1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cha03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/문제출제/문제2번.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cha03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/study2_main/main2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cha03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/문제출제/문제3번.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cha03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/study2_main/main3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cha03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/문제출제/문제4번.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cha03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/study1_method/method4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cha03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/문제출제/문제5번.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cha03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/study1_method/method6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cha03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/출력클래스/문제1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cha03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/출력클래스/문제2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cha03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/출력클래스/문제3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cha03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/출력클래스/문제4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/section02/looping/A_for.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/section02/looping/A_for.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/section02/looping/application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/section02/looping/application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/실습문제/문제1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/조건문_실습문제_선생님/문제1_오답노트.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/실습문제/문제2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/조건문_실습문제_선생님/문제2_오답노트.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/실습문제/문제3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/조건문_실습문제_선생님/문제3.java" afterDir="false" />
+    <list default="true" id="57fbac3a-6966-4ea2-bc41-5c9368217dce" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/level02/normal/book/model/vo/BookVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/level02/normal/book/run/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section06/finalkeyword/FinalFieldTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section06/singleton/EagerSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section06/singleton/LazySingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section06/singleton/application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section06/statickeyword/StaticFieldTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section06/statickeyword/StaticMethodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section06/statickeyword/application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section07/kindsofvariable/KindsOfVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section08/initblock/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section08/initblock/application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap07-object-array-lecture-source/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap07-object-array-lecture-source/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap07-object-array-lecture-source/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap07-object-array-lecture-source/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap07-object-array-lecture-source/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap07-object-array-lecture-source/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap07-object-array-lecture-source/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap07-object-array-lecture-source/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap07-object-array-lecture-source/src/main/java/com/ohfiraffers/sectio01/init/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap07-object-array-lecture-source/src/main/java/com/ohfiraffers/sectio01/init/application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/src/main/java/com/ohgiraffers/section01/extend/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/src/main/java/com/ohgiraffers/section01/extend/FireCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/src/main/java/com/ohgiraffers/section01/extend/RacingCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/src/main/java/com/ohgiraffers/section01/extend/application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section03/abstraction/CarDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section03/abstraction/CarDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section03/dto/MemberDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section03/dto/MemberDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section03/dto/application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section03/dto/application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section04/constructor/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section04/constructor/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -199,6 +91,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;Gradle.chap06-class-and-object-lecture-source [:applicaion1.main()].executor&quot;: &quot;Run&quot;,
     &quot;Gradle.chap06-class-and-object-lecture-source [:applicaiton.main()].executor&quot;: &quot;Run&quot;,
     &quot;Gradle.chap06-class-and-object-lecture-source [:application.main()].executor&quot;: &quot;Run&quot;,
@@ -214,7 +107,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/dev/lecture_code/JavaFoundation/chap06-class-and-object-lecture-source/src/main/java/org/example/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Java&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -240,12 +133,28 @@
       <workItem from="1707093329601" duration="26176000" />
       <workItem from="1707130209796" duration="614000" />
       <workItem from="1707131756904" duration="412000" />
-      <workItem from="1707178940393" duration="310000" />
+      <workItem from="1707178940393" duration="451000" />
+      <workItem from="1707179398945" duration="18592000" />
+      <workItem from="1707209708163" duration="1233000" />
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <option name="closed" value="true" />
+      <created>1707179332312</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707179332312</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -290,6 +199,16 @@
           <line>2</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ohgiraffers/section06/statickeyword/StaticFieldTest.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ohgiraffers/section06/statickeyword/StaticFieldTest.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/com/ohgiraffers/section04/dto/UserDTO.java</url>
           <line>22</line>
@@ -298,6 +217,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ohgiraffers/section08/initblock/Product.java</url>
+          <line>42</line>
+          <properties class="com.ohgiraffers.section08.initblock.Product" method="getInfomation">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/src/main/java/com/ohgiraffers/section04/dto/UserDTO.java</url>

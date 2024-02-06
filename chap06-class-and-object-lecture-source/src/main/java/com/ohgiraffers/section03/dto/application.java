@@ -28,14 +28,5 @@ public class application {
         System.out.println("회원 키 : " + member.getHeight());
         System.out.println("회원 몸무게 : " + member.getWeight());
         System.out.println("회원 활성화상태 : " + member.isActivated());
-
-
-
-
-
-
-
-
-
     }
 }
