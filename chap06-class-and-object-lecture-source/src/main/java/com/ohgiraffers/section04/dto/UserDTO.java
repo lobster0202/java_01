@@ -57,7 +57,8 @@ public class UserDTO {
         return enrollDate;
     }
     public String getInfomation() {
-        return "UserDTo [id = " + this.id + ", pwd = " + this.pwd + ", name =" + this.name + ", enrollDate = " + this.enrollDate + "]";
+        return "UserDTo [id = " + this.id + ", pwd = " + this.pwd
+                + ", name =" + this.name + ", enrollDate = " + this.enrollDate + "]";
     }
 
 

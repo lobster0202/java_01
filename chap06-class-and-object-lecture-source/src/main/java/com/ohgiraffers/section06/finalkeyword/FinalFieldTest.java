@@ -13,7 +13,7 @@ public class FinalFieldTest {
     * 6. static 메소드 : 메소드 재작성(overriding) 불가
     * 7. 클래스 : 상속 불가 */
 
-//    private  final int nonStaticNum;    //0으로 초기화 되어 이후 변경 불가능하기 때문에 에러남
+//    private final int nonStaticNum;    //0으로 초기화 되어 이후 변경 불가능하기 때문에 에러남
     // 선언만 하고 초기화를 안하는 것은 불가능
 
     /* non-static field에 final 사용*/
@@ -23,11 +23,12 @@ public class FinalFieldTest {
 
     // 생성자 초기화 방법
     public FinalFieldTest(String nonStaticName) {
+
         this.NON_STATIC_NAME = nonStaticName;
     }
 
     /* static field에 final 사용 */
-//    private final int STATIC_NUM;       // 0으로 최가화 되어 이후 변경 불가능하기 때문에 에러남
+//    private final int STATIC_NUM;       // 0으로 초기화 되어 이후 변경 불가능하기 때문에 에러남
     private static final int STATIC_NUM = 1;
 
     /*생성자를 이용한 초기화는 불가능하다.

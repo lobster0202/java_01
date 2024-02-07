@@ -41,6 +41,8 @@ public class ParameterTest {
         rectAngle.calcArea();
         rectAngle.calcRound();
     }
+
+    /*가변인자*/
     public void variableLengthArrayparameter(String name, String...hobby) {
 
         // (석현) 가변인자 = 언제든지 변할 수 있는 인자

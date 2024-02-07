@@ -10,11 +10,12 @@ public class application {
         * 4. 클래스 자료형 배열( = 객체 배열)
         * 5. 가변 인자     */
 
+        /*기본 자료형*/
         ParameterTest pt = new ParameterTest();
-        // (석현) new 뒤에 있는건 생성자라고 한다.
         int num = 20;
         pt.primaryTypeParameter(num);
 
+        /* 기본 자료형 배열*/
         int[] iarr =new int[] {1,2,3,4,5} ;
             System.out.println("기본 자료형 배열 전달인자로 전달하는 값 : " + iarr);
         pt.primaryTypeArrayParameter(iarr);
@@ -25,6 +26,7 @@ public class application {
             }
             System.out.println();
 
+        /* 클래스 자료형*/
         RectAngle r1 = new RectAngle(12.5,22.5);
 
         System.out.println("클래스 자료형 전달인자로 전달하는 값 : " + r1);
@@ -34,10 +36,11 @@ public class application {
         r1.calcArea();
         r1.calcRound();
 
-//        pt.variableLengthArrayparameter();                                            //  인자가 아무것도 없는 경우 에러 발생
-        pt.variableLengthArrayparameter("홍길동");                                 // 가변인자는 전달하지 않아도 됨
-        pt.variableLengthArrayparameter("권은지","볼링");                   // 1개도 가능
-        pt.variableLengthArrayparameter("남윤진","볼링","당구","축구");      // 여러 개도 가능
-        pt.variableLengthArrayparameter("유승제",new String[] {"테니스","서예","탁구"});          // 배열도 가능
+        /* 클래스 자료형 배열*/
+//        pt.variableLengthArrayparameter();                                                        //  인자가 아무것도 없는 경우 에러 발생
+        pt.variableLengthArrayparameter("홍길동");                                             // 가변인자는 전달하지 않아도 됨
+        pt.variableLengthArrayparameter("권은지","볼링");                               // 1개도 가능
+        pt.variableLengthArrayparameter("남윤진","볼링","당구","축구");                  // 여러 개도 가능
+        pt.variableLengthArrayparameter("유승제",new String[] {"테니스","서예","탁구"});         // 배열도 가능
     }
 }
