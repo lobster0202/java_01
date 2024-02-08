@@ -34,7 +34,8 @@ public class application {
             carArray[i].driveMaxSpeed();
         }
 
-        Car[] carArray2 = { // (석현)     {"페라리","람보르기니","롤스로이스"} 랑 똑같은거임
+        // (석현)     {"페라리","람보르기니","롤스로이스"} 랑 똑같은거임
+        Car[] carArray2 = {
                 new Car("페라리",300)
                 , new Car("람보르기니",350)
                 , new Car("롤스로이스",250)

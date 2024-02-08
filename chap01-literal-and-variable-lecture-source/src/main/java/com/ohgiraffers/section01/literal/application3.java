@@ -1,4 +1,4 @@
-package com.ohgiraffers.section01.leteral;
+package com.ohgiraffers.section01.literal;
 //그동안 배웠던거 합치고 나누고 등등 하는 시간
 public class application3 {
     public static void  main(String[] args) {

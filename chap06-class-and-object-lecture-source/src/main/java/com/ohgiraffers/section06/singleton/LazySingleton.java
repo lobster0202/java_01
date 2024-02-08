@@ -13,6 +13,4 @@ public class LazySingleton {
         }
         return lazy;
     }
-
-
 }

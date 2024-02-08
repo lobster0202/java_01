@@ -1,4 +1,4 @@
-package com.ohgiraffers.section03;
+package com.ohgiraffers.section03.overriding;
 
 import com.ohgiraffers.section03.overriding.Superclass;
 

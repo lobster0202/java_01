@@ -1,6 +1,6 @@
 package com.ohgiraffers.section01.extend;
 
-public class RacingCar extends Car{     // 상속의 나쁜 예
+public class RacingCar extends Car{     // 상속의 나쁜 예 - 상속 받았을때 장점 1도 없었음
     public RacingCar() {
         System.out.println("RacingCar 클래스 기본 생성자 호출됨");
     }

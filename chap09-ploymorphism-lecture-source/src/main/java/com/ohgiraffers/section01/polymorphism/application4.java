@@ -9,10 +9,6 @@ public class application4 {
 
 
 
-
-
-
-
     }
     public Animal getRandomAnimal() {
         int random = (int)(Math.random() * 2 );

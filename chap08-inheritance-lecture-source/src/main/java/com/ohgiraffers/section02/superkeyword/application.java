@@ -3,7 +3,9 @@ package com.ohgiraffers.section02.superkeyword;
 public class application {
     public static void main(String[] args) {
         /* [super]
-         * 자식 클래스를 이용해서 객체를 생성할 때 부모 생성자를 호출하여 부모 클래스의 인스턴스도 함께 생성된다.
+         * 부모 클래스에서 자식 클래스를 이용하여 객체를 생성할 때
+         * 부모 생성자를 호출하여 부모 클래스의 인스턴스도 함께 생성된다.
+         *
          * 이때 생성한 부모의 인스턴스 주소를 보관하는 레퍼런스 변수로
          * 자식클래스 내의 모든 생성자와 메소드 내에서 선언하지 않고 쓸 수 있다.
          *
