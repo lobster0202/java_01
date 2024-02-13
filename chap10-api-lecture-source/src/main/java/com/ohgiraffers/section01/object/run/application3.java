@@ -17,11 +17,5 @@ public class application3 {
 
         System.out.println("book1의 hashCode : " + book1.hashCode());
         System.out.println("book2의 hashCode : " + book2.hashCode());
-
-
-
-
-
-
     }
 }

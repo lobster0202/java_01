@@ -74,39 +74,5 @@ public class application1 {
         *              길이가 0인 문자열은 null과는 다르다.*/
         System.out.println("isEmpty() : " + "".isEmpty());
         System.out.println("isEmpty() : " + "abc".isEmpty());
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     }
-
-
-
 }

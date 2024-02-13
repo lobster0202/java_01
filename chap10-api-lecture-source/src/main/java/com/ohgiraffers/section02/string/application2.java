@@ -45,9 +45,6 @@ public class application2 {
 
         * 따라서 Scanner로 입력받은 문자열을 비교할 때에는 equals()를 써야한다.
         * 구분하기 힘들면 그냥 문자열은 equals()로 비교하는 것이 가장 좋은 방법이다. */
-
-
-
     }
 
 }

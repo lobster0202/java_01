@@ -33,12 +33,5 @@ public class application {
         product.nonStaticMethod();
         /* static 메소드는 그냥 사용 가능 (인스턴스 생성 불필요)*/
         Product.staticMethod();
-
-
-
-
-
-
-
     }
 }

@@ -69,8 +69,6 @@ public class application3 {
         StringTokenizer colorStringTokenizer = new StringTokenizer(colorStr, "*#/ ");
         while (colorStringTokenizer.hasMoreTokens()) {
             System.out.println(colorStringTokenizer.nextToken());
-
-
         }
     }
 }

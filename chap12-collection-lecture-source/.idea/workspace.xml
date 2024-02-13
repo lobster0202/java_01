@@ -4,45 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c74283fd-2b06-4a6d-885c-187f18fe5ddd" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/../chap11-generics-lecture-source/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap11-generics-lecture-source/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap11-generics-lecture-source/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap11-generics-lecture-source/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap11-generics-lecture-source/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap11-generics-lecture-source/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap11-generics-lecture-source/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap11-generics-lecture-source/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap11-generics-lecture-source/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap11-generics-lecture-source/src/main/java/com/ohgiraffers/section01/generic/GenericTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap11-generics-lecture-source/src/main/java/com/ohgiraffers/section01/generic/appliaciton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap11-generics-lecture-source/src/main/java/com/ohgiraffers/section02/extend/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap11-generics-lecture-source/src/main/java/com/ohgiraffers/section02/extend/Bunny.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap11-generics-lecture-source/src/main/java/com/ohgiraffers/section02/extend/DrunkenBunny.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap11-generics-lecture-source/src/main/java/com/ohgiraffers/section02/extend/Mamal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap11-generics-lecture-source/src/main/java/com/ohgiraffers/section02/extend/Rabbit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap11-generics-lecture-source/src/main/java/com/ohgiraffers/section02/extend/RabbitFarm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap11-generics-lecture-source/src/main/java/com/ohgiraffers/section02/extend/Reptile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap11-generics-lecture-source/src/main/java/com/ohgiraffers/section02/extend/Snake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap11-generics-lecture-source/src/main/java/com/ohgiraffers/section02/extend/WildCardFarm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap11-generics-lecture-source/src/main/java/com/ohgiraffers/section02/extend/run/application1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap11-generics-lecture-source/src/main/java/com/ohgiraffers/section02/extend/run/application2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section01/list/comparator/AscendingPrice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section01/list/dto/BookDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section01/list/run/application1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section01/list/run/application2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section01/list/run/application3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section01/list/run/application4.java" afterDir="false" />
+    <list default="true" id="c74283fd-2b06-4a6d-885c-187f18fe5ddd" name="변경" comment="commit">
       <change beforePath="$PROJECT_DIR$/../chap09-ploymorphism-lecture-source/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap09-ploymorphism-lecture-source/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap10-api-lecture-source/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap10-api-lecture-source/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap09-ploymorphism-lecture-source/src/main/java/com/ohgiraffers/section02/abstractclass/SmartPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap09-ploymorphism-lecture-source/src/main/java/com/ohgiraffers/section02/abstractclass/SmartPhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap09-ploymorphism-lecture-source/src/main/java/com/ohgiraffers/section02/abstractclass/application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap09-ploymorphism-lecture-source/src/main/java/com/ohgiraffers/section02/abstractclass/application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,9 +30,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2cIIyUy23VbUZucejxruY5zW2mR" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -74,26 +40,28 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.chap12-collection-lecture-source [:application1.main()].executor": "Run",
-    "Gradle.chap12-collection-lecture-source [:application2.main()].executor": "Run",
-    "Gradle.chap12-collection-lecture-source [:application3.main()].executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/dev/lecture_code/JavaFoundation/chap12-collection-lecture-source/src/main/java/org/example/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.chap12-collection-lecture-source [:application1.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.chap12-collection-lecture-source [:application2.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.chap12-collection-lecture-source [:application3.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.chap12-collection-lecture-source [:application4.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.chap12-collection-lecture-source [:application5.main()].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/dev/lecture_code/JavaFoundation/chap12-collection-lecture-source/src/main/java/org/example/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -109,12 +77,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1707792920649</updated>
-      <workItem from="1707792921678" duration="9037000" />
+      <workItem from="1707792921678" duration="11727000" />
+      <workItem from="1707812209030" duration="13000" />
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <option name="closed" value="true" />
+      <created>1707809436729</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707809436729</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

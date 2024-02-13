@@ -24,10 +24,5 @@ public class application1 {
         System.out.println("book1 : " + book1);
         System.out.println("book2 : " + book2);
         System.out.println("book3 : " + book3);
-
-
-
-
-
     }
 }

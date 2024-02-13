@@ -14,11 +14,4 @@ public class SmartPhone extends Product {
     public void printSmartPhone() {
         System.out.println("SmartPhone 클래스의 printSmartPhone 메소드 호출함");
     }
-
-
-
-
-
-
-
 }

@@ -17,9 +17,5 @@ public class application2 {
 
         System.out.println("두 인스턴스의 == 연산 비교 : " + (book1 == book2));
         System.out.println("두 인스턴스의 equals() 비교 : " + (book1.equals(book2)));
-
-
-
     }
-
 }
