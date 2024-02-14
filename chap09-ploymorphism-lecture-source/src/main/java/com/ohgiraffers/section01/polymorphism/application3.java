@@ -13,7 +13,6 @@ public class application3 {
         Cat animal3 = new Cat();
         Tiger animal4 = new Tiger();
 
-
         /* up-casting */
         app3.feed((Animal)animal3);             // 명시적 형변환
         app3.feed((Animal)animal4);

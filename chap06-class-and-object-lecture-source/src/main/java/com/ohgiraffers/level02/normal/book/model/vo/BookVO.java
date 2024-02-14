@@ -7,13 +7,20 @@ public class BookVO {
     private int price;
     private double discountRate;
 
-    public void BookVO() {
+    public BookVO() {
 
     }
-    public void BookVO(String title, String publisher, String author) {
+    public BookVO(String title, String publisher, String author) {
+        this.title = title;
+        this.publisher = publisher;
+        this.author = author;
 
     }
-    public void BookVO(String title, String publisher, String author, int price, double discountRate){
+    public BookVO(String title, String publisher, String author, int price, double discountRate){
+        this(title, publisher, author);     //이거 위에꺼에서 이미 3개를 해서 이렇게 3개만 가능한것       //this는 같은 클래스내에서 생성자 호출할때 쓰는거라서
+        //super 부모클래스 생성자 호출
+        this.price = price;
+        this.discountRate = discountRate;
 
     }
 
@@ -52,7 +59,7 @@ public class BookVO {
     }
 
     public void printInformation() {
-        System.out.println();
+        System.out.println(title + ". " + publisher + ". " + author + ". " + price + ". " + discountRate);
 
     }
 

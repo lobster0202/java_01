@@ -63,6 +63,8 @@ public class User {
         System.out.println("User 클래스의 모든 필드를 초기화하는 생성자 호출함");
     }
     public String getInformation() {
-        return "User [id = " + this.id + ", pwd = " + this.pwd + ", name = " + this.name + ", enrollDate = " + this.enrollDate + "]";
+        return "User [id = " + this.id + ", pwd = "
+                + this.pwd + ", name = " + this.name
+                + ", enrollDate = " + this.enrollDate + "]";
     }
 }

@@ -30,11 +30,5 @@ public class application2 {
         wildCardFarm.superType(new RabbitFarm<Rabbit>(new Rabbit()));
         wildCardFarm.superType(new RabbitFarm<Bunny>(new Bunny()));
 //        wildCardFarm.superType(new RabbitFarm<DrunkenBunny>(new DrunkenBunny()));
-
-
-
-
-
-
     }
 }

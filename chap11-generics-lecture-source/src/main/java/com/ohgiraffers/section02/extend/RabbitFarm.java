@@ -5,7 +5,7 @@ package com.ohgiraffers.section02.extend;
 
 //public class RabbitFarm<T extends Rabbit & Animal> {
     // (석현) Generic 클래스에서 상속을 받으려면
-    // 인터페이스라고 해도 implements 가 아닌 extend로 해야한다
+    // 인터페이스라고 해도 implements 가 아닌 extends로 해야한다
     // 2개의 클래스를 상속 받으려면 앞에는 클래스, 뒤에는 인터페이스 순서로 해야한다.
 
     public class RabbitFarm <T extends Rabbit> {

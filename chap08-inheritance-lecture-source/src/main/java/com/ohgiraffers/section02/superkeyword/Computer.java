@@ -10,6 +10,7 @@ public class Computer extends Product{
     private String operationSystem;
 
     public Computer() {
+
         System.out.println("Computer 클래스의 기본 생성자 호출함");
     }
 

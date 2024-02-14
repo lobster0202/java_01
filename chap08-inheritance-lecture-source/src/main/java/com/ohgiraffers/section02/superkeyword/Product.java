@@ -19,7 +19,6 @@ public class Product {
         this.name = name;
         this.price = price;
 
-
         System.out.println("Product 클래스의 매개변수 있는 생성자 호출함");
     }
 
@@ -75,20 +74,4 @@ public class Product {
 //        this.price = price;
 //        this.manufacturingDate = manufacturingDate;
 //    }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }

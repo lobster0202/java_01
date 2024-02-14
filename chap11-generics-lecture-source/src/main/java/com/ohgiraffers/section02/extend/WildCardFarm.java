@@ -16,8 +16,4 @@ public class WildCardFarm {
         //Bunny 이거나 그 부모타입으로 만들어진 토끼 농장만 매개변수로 사용
         farm.getAnimal().cry();
     }
-
-
-
-
 }

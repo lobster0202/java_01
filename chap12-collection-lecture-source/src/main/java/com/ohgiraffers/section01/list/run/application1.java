@@ -104,6 +104,8 @@ public class application1 {
         }
         System.out.println("descList : " + decsList);
 
+        //hasNext() : 반복문 계속 돌리면서 내가 원하는 요소가 있으면 true, 없으면 false
+
 
 
 

@@ -23,24 +23,11 @@ public class application1 {
         farm5.setAnimal(new Bunny());
         farm5.getAnimal().cry();
 
-
         /* Generic을 사용해서 올바른 타입을 타입변수로 지정하는 경우
         * 인스턴스 내부에 있는 타입 자체가 Rabbit타입을 가지고 있는 것이
         * 보장되어 있기 때문에 형변환 생략 가능 */
         farm6.setAnimal(new DrunkenBunny());
         ((Bunny)farm6.getAnimal()).cry();
         farm6.getAnimal().cry();        // 형변환 생략 가능
-
-
-
-
-
-
-
-
-
-
-
-
     }
 }

@@ -60,10 +60,4 @@ public class UserDTO {
         return "UserDTo [id = " + this.id + ", pwd = " + this.pwd
                 + ", name =" + this.name + ", enrollDate = " + this.enrollDate + "]";
     }
-
-
-
-
-
-
 }
