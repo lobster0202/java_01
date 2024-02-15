@@ -23,18 +23,24 @@ public class LibraryMenu {
         LibraryManager lm = new LibraryManager();
         lm.insertMember(mem);
 
+        label:
+        while (true) {
+            System.out.println("원하는 메뉴를 선택하세요");
+            switch (sc.nextInt()) {
+                case 1 : lm.myInfo(); break;
+                case 2 : lm.selectAll(); break;
+                case 3 : lm.searchBook(); break;
+                case 4 : lm.rentBook(); break;
+                case 0 :
+                    System.out.println("프로그램을 종료합니다"); break label;
+                default:
+                    System.out.println("잘못 입력하셨습니다.");   break;
 
-        System.out.println("원하는 메뉴를 선택하세요");
-        switch (sc.nextInt()) {
-            case 1 : lm.myInfo(); break;
-            case 2 : lm.selectAll(); break;
-            case 3 : lm.searchBook(); break;
-            case 4 : lm.rentBook(); break;
-            case 0 :
-                System.out.println("프로그램을 종료합니다"); break;
-            default:
-                System.out.println("잘못 입력하셨습니다.");
+            }
+
         }
+
+
     }
 
     public void selectAll() {
@@ -64,8 +70,6 @@ public class LibraryMenu {
     public void rentBook() {
         LibraryManager lm = new LibraryManager();
         lm.selectAll();
-
-
     }
 
     public LibraryManager getLm() {

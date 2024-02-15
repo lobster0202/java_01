@@ -5,63 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="789974e0-ffc6-4509-bc89-f93b3792912c" name="변경" comment="commit">
-      <change afterPath="$PROJECT_DIR$/../chap06-class-and-object-lecture-source/src/main/java/com/ohgiraffers/level02/normal/student/model/vo/StudentVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap06-class-and-object-lecture-source/src/main/java/com/ohgiraffers/level02/normal/student/run/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/src/main/java/com/hw1/dto/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/src/main/java/com/hw1/dto/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/src/main/java/com/hw1/dto/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/src/main/java/com/hw1/run/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap08-test/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap08-test/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap08-test/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap08-test/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap08-test/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap08-test/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap08-test/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap08-test/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap08-test/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap08-test/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap08-test/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap08-test/src/main/java/com/hw1/dto/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap08-test/src/main/java/com/hw1/dto/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap08-test/src/main/java/com/hw1/dto/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap08-test/src/main/java/com/hw1/run/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hw1/controller/LibraryManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hw1/model/dto/AniBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hw1/model/dto/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hw1/model/dto/CookBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hw1/model/dto/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hw1/run/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hw1/view/LibraryMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap12-collection-lecture-source/driver.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap12-collection-lecture-source/driver.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap12-collection-lecture-source/driver.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap12-collection-lecture-source/src/main/java/com/ohgiraffers/section02/set/run/application1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap12-collection-lecture-source/src/main/java/com/ohgiraffers/section02/set/run/application2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap12-collection-lecture-source/src/main/java/com/ohgiraffers/section02/set/run/application3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap12-collection-lecture-source/src/main/java/com/ohgiraffers/section03/map/run/application1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap12-collection-lecture-source/src/main/java/com/ohgiraffers/section03/map/run/application2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap13-exception-lecture-source/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap13-exception-lecture-source/src/main/java/com/ohgiraffers/section01/exception/Applicaiton1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap13-exception-lecture-source/src/main/java/com/ohgiraffers/section01/exception/Application2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap13-exception-lecture-source/src/main/java/com/ohgiraffers/section01/exception/ExceptionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap13-exception-lecture-source/src/main/java/com/ohgiraffers/section02/userexceoption/Application1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap13-exception-lecture-source/src/main/java/com/ohgiraffers/section02/userexceoption/Application2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap13-exception-lecture-source/src/main/java/com/ohgiraffers/section02/userexceoption/ExceptionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap13-exception-lecture-source/src/main/java/com/ohgiraffers/section02/userexceoption/exceoption/MoneyNegativeExcetion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap13-exception-lecture-source/src/main/java/com/ohgiraffers/section02/userexceoption/exceoption/NegativeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap13-exception-lecture-source/src/main/java/com/ohgiraffers/section02/userexceoption/exceoption/NotEnoughMoneyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap13-exception-lecture-source/src/main/java/com/ohgiraffers/section02/userexceoption/exceoption/PriceNegativeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap13-exception-lecture-source/src/main/java/com/ohgiraffers/section03/override/SubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap13-exception-lecture-source/src/main/java/com/ohgiraffers/section03/override/SuperClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../object-test2/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../object-test2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../object-test2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../object-test2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../object-test2/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../object-test2/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../object-test2/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../object-test2/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../objectTest/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../objectTest/src/main/java/com/test/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../objectTest/src/main/java/com/test/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../objectTest/src/main/java/com/test/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../chap06-class-and-object-lecture-source/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06-class-and-object-lecture-source/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap06-class-and-object-lecture-source/src/main/java/com/ohgiraffers/level02/normal/book/model/vo/BookVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06-class-and-object-lecture-source/src/main/java/com/ohgiraffers/level02/normal/book/model/vo/BookVO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap06-class-and-object-lecture-source/src/main/java/com/ohgiraffers/level02/normal/book/run/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06-class-and-object-lecture-source/src/main/java/com/ohgiraffers/level02/normal/book/run/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap06-class-and-object-lecture-source/src/main/java/com/ohgiraffers/section04/constructor/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06-class-and-object-lecture-source/src/main/java/com/ohgiraffers/section04/constructor/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap06-class-and-object-lecture-source/src/main/java/com/ohgiraffers/section04/dto/UserDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06-class-and-object-lecture-source/src/main/java/com/ohgiraffers/section04/dto/UserDTO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/src/main/java/com/ohgiraffers/section02/superkeyword/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/src/main/java/com/ohgiraffers/section02/superkeyword/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/src/main/java/com/ohgiraffers/section02/superkeyword/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/src/main/java/com/ohgiraffers/section02/superkeyword/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section01/polymorphism/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section01/polymorphism/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section01/polymorphism/application3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section01/polymorphism/application3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section01/polymorphism/application4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section01/polymorphism/application4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap10-api-lecture-source/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap10-api-lecture-source/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap11-generics-lecture-source/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap11-generics-lecture-source/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap11-generics-lecture-source/src/main/java/com/ohgiraffers/section02/extend/Mamal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap11-generics-lecture-source/src/main/java/com/ohgiraffers/section02/extend/Mamal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap11-generics-lecture-source/src/main/java/com/ohgiraffers/section02/extend/RabbitFarm.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap11-generics-lecture-source/src/main/java/com/ohgiraffers/section02/extend/RabbitFarm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap11-generics-lecture-source/src/main/java/com/ohgiraffers/section02/extend/WildCardFarm.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap11-generics-lecture-source/src/main/java/com/ohgiraffers/section02/extend/WildCardFarm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap11-generics-lecture-source/src/main/java/com/ohgiraffers/section02/extend/run/application1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap11-generics-lecture-source/src/main/java/com/ohgiraffers/section02/extend/run/application1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap11-generics-lecture-source/src/main/java/com/ohgiraffers/section02/extend/run/application2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap11-generics-lecture-source/src/main/java/com/ohgiraffers/section02/extend/run/application2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap12-collection-lecture-source/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap12-collection-lecture-source/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap12-collection-lecture-source/src/main/java/com/ohgiraffers/section01/list/run/application1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap12-collection-lecture-source/src/main/java/com/ohgiraffers/section01/list/run/application1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hw1/controller/LibraryManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hw1/controller/LibraryManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hw1/view/LibraryMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hw1/view/LibraryMenu.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,33 +98,34 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Gradle.chap09-ploymorphism-lecture-source [:applicaiton1.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.chap09-ploymorphism-lecture-source [:application.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.chap09-ploymorphism-lecture-source [:application2.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.chap09-ploymorphism-lecture-source [:application3.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.chap09-ploymorphism-lecture-source [:application4.main()].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/dev/lecture_code/JavaFoundation/chap09-ploymorphism-lecture-source&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/dev/lecture_code/JavaFoundation/chap09-ploymorphism-lecture-source/src/main/java/org/example/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;모듈&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Gradle.chap09-ploymorphism-lecture-source [:applicaiton1.main()].executor": "Run",
+    "Gradle.chap09-ploymorphism-lecture-source [:application.main()].executor": "Run",
+    "Gradle.chap09-ploymorphism-lecture-source [:application2.main()].executor": "Run",
+    "Gradle.chap09-ploymorphism-lecture-source [:application3.main()].executor": "Run",
+    "Gradle.chap09-ploymorphism-lecture-source [:application4.main()].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/dev/lecture_code/JavaFoundation/chap09-ploymorphism-lecture-source",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/dev/lecture_code/JavaFoundation/chap09-ploymorphism-lecture-source/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "모듈",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.editor",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -174,7 +148,10 @@
       <workItem from="1707812207284" duration="6000" />
       <workItem from="1707889748118" duration="98000" />
       <workItem from="1707890192429" duration="605000" />
-      <workItem from="1707898566348" duration="6732000" />
+      <workItem from="1707898566348" duration="6758000" />
+      <workItem from="1707957106620" duration="697000" />
+      <workItem from="1707966530861" duration="517000" />
+      <workItem from="1707967057606" duration="4722000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
@@ -184,7 +161,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707382758038</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit">
+      <option name="closed" value="true" />
+      <created>1707910651663</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707910651663</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,17 +205,17 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/hw1/view/LibraryMenu.java</url>
-          <line>43</line>
+          <line>49</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/hw1/view/LibraryMenu.java</url>
-          <line>44</line>
+          <line>50</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/hw1/view/LibraryMenu.java</url>
-          <line>46</line>
+          <line>52</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">

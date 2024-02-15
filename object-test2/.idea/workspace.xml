@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28d63127-4ca4-44ed-9fa8-d9fd9bf6238e" name="변경" comment="">
+    <list default="true" id="7f5f8706-1b8d-47dd-a262-ffe7fe5ceb59" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../chap13-exception-lecture-source/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../chap13-exception-lecture-source/src/main/java/com/ohgiraffers/section01/exception/Applicaiton1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../chap13-exception-lecture-source/src/main/java/com/ohgiraffers/section01/exception/Application2.java" afterDir="false" />
@@ -18,13 +18,12 @@
       <change afterPath="$PROJECT_DIR$/../chap13-exception-lecture-source/src/main/java/com/ohgiraffers/section02/userexceoption/exceoption/PriceNegativeException.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../chap13-exception-lecture-source/src/main/java/com/ohgiraffers/section03/override/SubClass.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../chap13-exception-lecture-source/src/main/java/com/ohgiraffers/section03/override/SuperClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../object-test2/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../objectTest/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../objectTest/src/main/java/com/test/Application.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../objectTest/src/main/java/com/test/Dog.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../objectTest/src/main/java/com/test/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../chap06-class-and-object-lecture-source/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06-class-and-object-lecture-source/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../chap09-ploymorphism-lecture-source/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap09-ploymorphism-lecture-source/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../chap09-ploymorphism-lecture-source/src/main/java/com/hw1/controller/LibraryManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap09-ploymorphism-lecture-source/src/main/java/com/hw1/controller/LibraryManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../chap09-ploymorphism-lecture-source/src/main/java/com/hw1/view/LibraryMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap09-ploymorphism-lecture-source/src/main/java/com/hw1/view/LibraryMenu.java" afterDir="false" />
@@ -39,77 +38,36 @@
       <ProjectState />
     </projectState>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/main/java/com/ohgiraffers/section03/SubClass.java" root0="FORCE_HIGHLIGHTING" />
-  </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 6
-}</component>
-  <component name="ProjectId" id="2bz54PCM4sDyeFRU7ORpZjThcEi" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2cOoLZDDmbm3voKmMqqflbFP0uY" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Gradle.chap08-inheritance-lecture-source [:Run.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.chap08-inheritance-lecture-source [:application.main()].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/dev/lecture_code/JavaFoundation/chap09-ploymorphism-lecture-source&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/dev/lecture_code/JavaFoundation/chap08-inheritance-lecture-source/src/main/java/org/example/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;모듈&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/dev/lecture_code/JavaFoundation/object-test2/src/main/java/org/example/Main.java",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-17.0.10-temurin-17.0.10-f644763e9732-8a10ee56" />
-      </set>
-    </attachedChunks>
-  </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="디폴트 작업">
-      <changelist id="28d63127-4ca4-44ed-9fa8-d9fd9bf6238e" name="변경" comment="" />
-      <created>1707204874960</created>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f5f8706-1b8d-47dd-a262-ffe7fe5ceb59" name="Changes" comment="" />
+      <created>1707991930950</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1707204874960</updated>
-      <workItem from="1707204875968" duration="4775000" />
-      <workItem from="1707266572483" duration="6903000" />
-      <workItem from="1707370886233" duration="4525000" />
-      <workItem from="1707889804944" duration="42000" />
-      <workItem from="1707890209685" duration="1262000" />
-      <workItem from="1707896251772" duration="9758000" />
-      <workItem from="1707908390331" duration="1042000" />
-      <workItem from="1707957110232" duration="599000" />
-      <workItem from="1707966522333" duration="4000" />
-      <workItem from="1707968729521" duration="3604000" />
+      <updated>1707991930950</updated>
+      <workItem from="1707991931686" duration="6000" />
     </task>
     <servers />
   </component>
@@ -123,25 +81,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
           <line>13</line>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/superkeyword/Computer.java</url>
-          <line>35</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/superkeyword/Computer.java</url>
-          <line>71</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/superkeyword/Product.java</url>
-          <line>15</line>
-          <properties class="com.ohgiraffers.section02.superkeyword.Product" method="&lt;init&gt;">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

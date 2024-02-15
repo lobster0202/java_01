@@ -18,25 +18,31 @@ public class LibraryManager {
 
     }
     public Book[] searchBook(String keyword) {
+
         return
     }
     public int rentBook(int index) {
+
         return
     }
 
     public Member getMem() {
+
         return mem;
     }
 
     public void setMem(Member mem) {
+
         this.mem = mem;
     }
 
     public Book[] getbList() {
+
         return bList;
     }
 
     public void setbList(Book[] bList) {
+
         this.bList = bList;
     }
 }
