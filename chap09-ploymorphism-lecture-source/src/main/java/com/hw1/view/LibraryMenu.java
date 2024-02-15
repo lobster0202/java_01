@@ -48,8 +48,7 @@ public class LibraryMenu {
         Book[] bList = lm.selectAll();
 
         for (int i = 0; i < bList.length; i++) {
-            System.out.println(i + "번도서 : " + );
-
+            System.out.println(i + "번도서 : " + bList[i] );
         }
 
 
@@ -70,6 +69,13 @@ public class LibraryMenu {
     public void rentBook() {
         LibraryManager lm = new LibraryManager();
         lm.selectAll();
+        Scanner sc = new Scanner(System.in);
+        System.out.print("대여할 도서 번호 선택 : ");
+        int index = sc.nextInt();
+
+        lm.rentBook(index);
+
+
     }
 
     public LibraryManager getLm() {

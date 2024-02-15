@@ -5,36 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="789974e0-ffc6-4509-bc89-f93b3792912c" name="변경" comment="commit">
-      <change afterPath="$PROJECT_DIR$/../chap13-exception-lecture-source/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap13-exception-lecture-source/src/main/java/com/ohgiraffers/section01/exception/Applicaiton1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap13-exception-lecture-source/src/main/java/com/ohgiraffers/section01/exception/Application2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap13-exception-lecture-source/src/main/java/com/ohgiraffers/section01/exception/ExceptionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap13-exception-lecture-source/src/main/java/com/ohgiraffers/section02/userexceoption/Application1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap13-exception-lecture-source/src/main/java/com/ohgiraffers/section02/userexceoption/Application2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap13-exception-lecture-source/src/main/java/com/ohgiraffers/section02/userexceoption/ExceptionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap13-exception-lecture-source/src/main/java/com/ohgiraffers/section02/userexceoption/exceoption/MoneyNegativeExcetion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap13-exception-lecture-source/src/main/java/com/ohgiraffers/section02/userexceoption/exceoption/NegativeException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap13-exception-lecture-source/src/main/java/com/ohgiraffers/section02/userexceoption/exceoption/NotEnoughMoneyException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap13-exception-lecture-source/src/main/java/com/ohgiraffers/section02/userexceoption/exceoption/PriceNegativeException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap13-exception-lecture-source/src/main/java/com/ohgiraffers/section03/override/SubClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap13-exception-lecture-source/src/main/java/com/ohgiraffers/section03/override/SuperClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../object-test2/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../object-test2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../object-test2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../object-test2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../object-test2/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../object-test2/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../object-test2/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../object-test2/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../objectTest/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../objectTest/src/main/java/com/test/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../objectTest/src/main/java/com/test/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../objectTest/src/main/java/com/test/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap06-class-and-object-lecture-source/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06-class-and-object-lecture-source/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/hw1/controller/LibraryManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hw1/controller/LibraryManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/hw1/view/LibraryMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hw1/view/LibraryMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../object-test2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../object-test2/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,34 +71,34 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Gradle.chap09-ploymorphism-lecture-source [:applicaiton1.main()].executor": "Run",
-    "Gradle.chap09-ploymorphism-lecture-source [:application.main()].executor": "Run",
-    "Gradle.chap09-ploymorphism-lecture-source [:application2.main()].executor": "Run",
-    "Gradle.chap09-ploymorphism-lecture-source [:application3.main()].executor": "Run",
-    "Gradle.chap09-ploymorphism-lecture-source [:application4.main()].executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/dev/lecture_code/JavaFoundation/chap09-ploymorphism-lecture-source",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/dev/lecture_code/JavaFoundation/chap09-ploymorphism-lecture-source/src/main/java/org/example/Main.java",
-    "project.structure.last.edited": "모듈",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.editor",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Gradle.chap09-ploymorphism-lecture-source [:applicaiton1.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.chap09-ploymorphism-lecture-source [:application.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.chap09-ploymorphism-lecture-source [:application2.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.chap09-ploymorphism-lecture-source [:application3.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.chap09-ploymorphism-lecture-source [:application4.main()].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/dev/lecture_code/JavaFoundation/chap09-ploymorphism-lecture-source&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/dev/lecture_code/JavaFoundation/chap09-ploymorphism-lecture-source/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;모듈&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -152,6 +125,7 @@
       <workItem from="1707957106620" duration="697000" />
       <workItem from="1707966530861" duration="517000" />
       <workItem from="1707967057606" duration="4722000" />
+      <workItem from="1707996428070" duration="511000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
@@ -202,21 +176,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/ohgiraffers/section01/polymorphism/application1.java</url>
           <line>101</line>
           <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/hw1/view/LibraryMenu.java</url>
-          <line>49</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/hw1/view/LibraryMenu.java</url>
-          <line>50</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/hw1/view/LibraryMenu.java</url>
-          <line>52</line>
-          <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/com/ohgiraffers/section03/interfaceimplements/InterProduct.java</url>
