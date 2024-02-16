@@ -32,6 +32,7 @@ public class Application {
         String dogName = p1.getMyDog().getName();
         String[] skillArr = p1.getMyDog().getSkill();
 
+        // 문자열의 형태의 길이를 나타내는 것 = .length() , 배열의 길이를 나타내는 것 = .length
         for ( int i = 0; i < skillArr.length; i++) {
             System.out.println(dogName + "의" + (i+1) + "번째 재주는 " + skillArr[i] + "입니다.");
         }

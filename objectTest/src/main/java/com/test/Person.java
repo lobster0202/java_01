@@ -1,5 +1,6 @@
 package com.test;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class Person {
@@ -41,19 +42,19 @@ public class Person {
     public void setCountry(String country) {
 
         String[] country1 = {"한국", "일본", "중국", "홍콩", "터키"};
-        for (int i = 0; i < country1.length; i++) {
-            if (country1[i].equals(country)) {
-                this.country = country; break;
-            }else {
-                this.country = "한국";
-            }
-        }
-//        for (String checkCountry : country1) {
-//            if(country.equals(checkCountry)) {
-//                this.country = country;
-//                return;
+//        for (int i = 0; i < country1.length; i++) {
+//            if (country1[i].equals(country)) {
+//                this.country = country; break;
+//            }else {
+//                this.country = "한국";
 //            }
 //        }
+        for (String checkCountry : country1) {
+            if(country.equals(checkCountry)) {
+                this.country = country;
+                return;
+            }
+        }
         System.out.println("확인되지 않은 국가입니다. 국적을 한국으로 자동 설정합니다.");
         // (정보) break를 쓰지 않고 return을 써서 반복적으로 출력되는걸 막을 수 있다.
 
@@ -97,8 +98,40 @@ public class Person {
         this.myDog.learnAbility(teachingAbility);
         // 이미 입력받은 개의 재주를 설정하고 싶은거라서 myDog를 쓰고
         // 나중가서는 다른 myDog랑 헷갈릴 수 있으니 this.을 써주면 된다.
-
     }
+
+    public void orderToDog() {
+        /* 1. void 메소드 출력
+        *  2. String으로 변경하여 출력
+        *   출력예시 ) 뽀삐는 앉아!를 할 수 있어요 :) or 뽀삐는 앉아!를 배우지 않았어요.
+        *  3. boolean으로 변경하여 출력
+        *   출력예시 ) 뽀삐는 앉아!를 배웠어요!! or 뽀삐는 짖어!를 할 수 없어요. */
+
+        Scanner sc = new Scanner(System.in);
+
+        String[] skillArr = this.myDog.getSkill();
+
+        // Arrays.toString 이용
+        System.out.println("시킬 수 있는 재주로" + Arrays.toString(skillArr) + "가 있습니다.");
+
+        System.out.print("어떤 재주를 시키시겠습니까? : " );
+        String order = sc.nextLine();
+
+//        this.myDog.doSomeThingVoid(order);
+        this.myDog.doSomeThingString(order);
+        System.out.println(this.myDog.doSomeThingString(order));
+
+//        for (int i = 0 ; i < skillArr.length; i++) {
+//            if (order.equals(skillArr[i])) {
+//                this.myDog.doSomeThingBoolean(order);
+//                return;
+//            }
+//            else {
+//                System.out.println("아직 배우지 않은 재주입니다.");
+//            }
+//        }
+    }
+
 
     @Override
     public String toString() {

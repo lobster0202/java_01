@@ -8,8 +8,7 @@ public class Application {
 
         // 내가 오늘 외워야 하는 것 :  get메소드, set메소드가 무엇을 하는지, 그리고 내가 입력한 값을 부르기 위해서 어떻게 해야하는지,
         // myDog에 대해 정확하게 알 것, 캡슐화 하세요 하면 속성 선언할때 private 써야 하는것,
-        // 향상된 for문에서 처음에 나오는건 타입형이다.
-
+        // 향상된 for문에서 처음에 나오는건 타입형이다., Arrays.toString()을 통해서 주소값으로 나오는 배열을 해결 할 수 있음
 
 
         //(질문) return이 무슨 역할을 하는지 다시 물어보기
@@ -51,12 +50,16 @@ public class Application {
             System.out.println( p.getMyDog().getName() + "의 " + (i+1) + "번 째 재주는 " + (skillarr[i]) + "입니다.");
 
         }
-//        p.getMyDog().setName("강아지");
-//        System.out.println("이름 : " + p.getMyDog().getName());
-//        p.getMyDog().setSkill(teachingAbility);
-//        System.out.println("재주 : " + Arrays.toString(p.getMyDog().getSkill()));
-//
-//        for (int i = 0)
+
+        /* 5. 강아지에게 재주 시키기 -> 사람이 할 수 있는 일 (=Person의 메소드)
+        *   1) 강아지에게 재주를 시키면 어떤 재주를 시킬지 입력받는다. (=Person의 메소드 호출)
+        *   2) 입력받은 재주를 강아지가 하도록 시킨다. (=Person의 메소드 동작 내용)
+        *   3) 강아지는 할 수 있는 재주면 해당 재주를 출력하고, 그렇지 않으면
+        *       '아직 못배운 재주에요' 를 출력한다. (=Dog의 메소드 동작 내용) */
+
+        p.orderToDog();
+
+
 
 
     }
