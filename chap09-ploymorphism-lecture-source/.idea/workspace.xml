@@ -5,9 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="789974e0-ffc6-4509-bc89-f93b3792912c" name="변경" comment="commit">
+      <change afterPath="$PROJECT_DIR$/../chap12-collection-lecture-source/src/main/java/com/ohgiraffers/hw1/comparator/AscBookNo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap12-collection-lecture-source/src/main/java/com/ohgiraffers/hw1/comparator/AscBookTitle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap12-collection-lecture-source/src/main/java/com/ohgiraffers/hw1/comparator/DescBookNo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap12-collection-lecture-source/src/main/java/com/ohgiraffers/hw1/comparator/DescBookTitle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap12-collection-lecture-source/src/main/java/com/ohgiraffers/hw1/controller/BookManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap12-collection-lecture-source/src/main/java/com/ohgiraffers/hw1/model/dto/BookDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap12-collection-lecture-source/src/main/java/com/ohgiraffers/hw1/run/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap12-collection-lecture-source/src/main/java/com/ohgiraffers/hw1/view/BookMenu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../object-test2/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../object-test2/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../object-test2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../object-test2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hw1/controller/LibraryManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hw1/controller/LibraryManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hw1/view/LibraryMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hw1/view/LibraryMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap12-collection-lecture-source/src/main/java/com/ohgiraffers/section01/list/run/application2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap12-collection-lecture-source/src/main/java/com/ohgiraffers/section01/list/run/application2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap12-collection-lecture-source/src/main/java/com/ohgiraffers/section02/set/run/application1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap12-collection-lecture-source/src/main/java/com/ohgiraffers/section02/set/run/application1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,6 +137,8 @@
       <workItem from="1707967057606" duration="4722000" />
       <workItem from="1707996428070" duration="818000" />
       <workItem from="1708043362452" duration="71000" />
+      <workItem from="1708303770075" duration="2531000" />
+      <workItem from="1708306739103" duration="1509000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />

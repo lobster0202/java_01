@@ -23,8 +23,6 @@ public class application2 {
             System.out.println(book);
         }
 
-
-
         System.out.println("가격 오름차순 정렬 ---------------");
         bookList.sort(new AscendingPrice());
         for (BookDTO book : bookList) {

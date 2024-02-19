@@ -31,7 +31,7 @@ public class application1 {
         System.out.println("저장된 객체수 : " + hset.size());
         System.out.println("포함확인 : " + hset.contains("oracle"));
 
-        // (석현) contatins() : 주어진 컬렉션 또는 문자열이 특정 요소 또는 문자열을 포함하고 있는지 여부를 확인하는 데 사용
+        // (석현) contatins() : 주어진 컬렉션 또는 문자열이 특정 요소 또는 문자열을 포함하고 있는지 여부를 확인하는데 사용
 
 
         /* toArray() : HashSet 에 저장된 모든 요소를 포함하는 새로운 'Object'타입의 배열 반환 */

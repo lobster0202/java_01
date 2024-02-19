@@ -5,23 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2c86f6c-0efe-4b1c-8d8f-ade9c89a0f5a" name="변경" comment="commit">
-      <change afterPath="$PROJECT_DIR$/../chap12-collection-lecture-source/driver.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap12-collection-lecture-source/driver.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap12-collection-lecture-source/driver.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap12-collection-lecture-source/src/main/java/com/ohgiraffers/section02/set/run/application1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap12-collection-lecture-source/src/main/java/com/ohgiraffers/section02/set/run/application2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap12-collection-lecture-source/src/main/java/com/ohgiraffers/section02/set/run/application3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap12-collection-lecture-source/src/main/java/com/ohgiraffers/section03/map/run/application1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap12-collection-lecture-source/src/main/java/com/ohgiraffers/section03/map/run/application2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap08-inheritance-lecture-source/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap12-collection-lecture-source/src/main/java/com/ohgiraffers/hw1/comparator/AscBookNo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap12-collection-lecture-source/src/main/java/com/ohgiraffers/hw1/comparator/AscBookTitle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap12-collection-lecture-source/src/main/java/com/ohgiraffers/hw1/comparator/DescBookNo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap12-collection-lecture-source/src/main/java/com/ohgiraffers/hw1/comparator/DescBookTitle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap12-collection-lecture-source/src/main/java/com/ohgiraffers/hw1/controller/BookManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap12-collection-lecture-source/src/main/java/com/ohgiraffers/hw1/model/dto/BookDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap12-collection-lecture-source/src/main/java/com/ohgiraffers/hw1/run/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap12-collection-lecture-source/src/main/java/com/ohgiraffers/hw1/view/BookMenu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../chap09-ploymorphism-lecture-source/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap09-ploymorphism-lecture-source/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap11-generics-lecture-source/src/main/java/com/ohgiraffers/section02/extend/Mamal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap11-generics-lecture-source/src/main/java/com/ohgiraffers/section02/extend/Mamal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap11-generics-lecture-source/src/main/java/com/ohgiraffers/section02/extend/RabbitFarm.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap11-generics-lecture-source/src/main/java/com/ohgiraffers/section02/extend/RabbitFarm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap11-generics-lecture-source/src/main/java/com/ohgiraffers/section02/extend/WildCardFarm.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap11-generics-lecture-source/src/main/java/com/ohgiraffers/section02/extend/WildCardFarm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap11-generics-lecture-source/src/main/java/com/ohgiraffers/section02/extend/run/application1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap11-generics-lecture-source/src/main/java/com/ohgiraffers/section02/extend/run/application1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap11-generics-lecture-source/src/main/java/com/ohgiraffers/section02/extend/run/application2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap11-generics-lecture-source/src/main/java/com/ohgiraffers/section02/extend/run/application2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap12-collection-lecture-source/src/main/java/com/ohgiraffers/section01/list/run/application1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap12-collection-lecture-source/src/main/java/com/ohgiraffers/section01/list/run/application1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap09-ploymorphism-lecture-source/src/main/java/com/hw1/controller/LibraryManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap09-ploymorphism-lecture-source/src/main/java/com/hw1/controller/LibraryManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap09-ploymorphism-lecture-source/src/main/java/com/hw1/view/LibraryMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap09-ploymorphism-lecture-source/src/main/java/com/hw1/view/LibraryMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap12-collection-lecture-source/src/main/java/com/ohgiraffers/section01/list/run/application2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap12-collection-lecture-source/src/main/java/com/ohgiraffers/section01/list/run/application2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap12-collection-lecture-source/src/main/java/com/ohgiraffers/section02/set/run/application1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap12-collection-lecture-source/src/main/java/com/ohgiraffers/section02/set/run/application1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +28,23 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="chap10-api-lecture-source" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -53,26 +66,27 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Gradle.chap10-api-lecture-source [:application1.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.chap10-api-lecture-source [:application2.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.chap10-api-lecture-source [:application3.main()].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/dev/lecture_code/JavaFoundation/chap10-api-lecture-source/src/main/java/org/example/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Gradle.chap10-api-lecture-source [:application1.main()].executor": "Run",
+    "Gradle.chap10-api-lecture-source [:application2.main()].executor": "Run",
+    "Gradle.chap10-api-lecture-source [:application3.main()].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/dev/lecture_code/JavaFoundation/chap10-api-lecture-source",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/dev/lecture_code/JavaFoundation/chap10-api-lecture-source/src/main/java/org/example/Main.java",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -97,6 +111,7 @@
       <workItem from="1707870856748" duration="236000" />
       <workItem from="1707889853306" duration="3000" />
       <workItem from="1707889882409" duration="73000" />
+      <workItem from="1708316122330" duration="872000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />

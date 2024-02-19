@@ -5,29 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28d63127-4ca4-44ed-9fa8-d9fd9bf6238e" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/../chap13-exception-lecture-source/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap13-exception-lecture-source/src/main/java/com/ohgiraffers/section01/exception/Applicaiton1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap13-exception-lecture-source/src/main/java/com/ohgiraffers/section01/exception/Application2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap13-exception-lecture-source/src/main/java/com/ohgiraffers/section01/exception/ExceptionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap13-exception-lecture-source/src/main/java/com/ohgiraffers/section02/userexceoption/Application1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap13-exception-lecture-source/src/main/java/com/ohgiraffers/section02/userexceoption/Application2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap13-exception-lecture-source/src/main/java/com/ohgiraffers/section02/userexceoption/ExceptionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap13-exception-lecture-source/src/main/java/com/ohgiraffers/section02/userexceoption/exceoption/MoneyNegativeExcetion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap13-exception-lecture-source/src/main/java/com/ohgiraffers/section02/userexceoption/exceoption/NegativeException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap13-exception-lecture-source/src/main/java/com/ohgiraffers/section02/userexceoption/exceoption/NotEnoughMoneyException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap13-exception-lecture-source/src/main/java/com/ohgiraffers/section02/userexceoption/exceoption/PriceNegativeException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap13-exception-lecture-source/src/main/java/com/ohgiraffers/section03/override/SubClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap13-exception-lecture-source/src/main/java/com/ohgiraffers/section03/override/SuperClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../object-test2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../objectTest/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../objectTest/src/main/java/com/test/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../objectTest/src/main/java/com/test/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../objectTest/src/main/java/com/test/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap06-class-and-object-lecture-source/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06-class-and-object-lecture-source/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap12-collection-lecture-source/src/main/java/com/ohgiraffers/hw1/comparator/AscBookNo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap12-collection-lecture-source/src/main/java/com/ohgiraffers/hw1/comparator/AscBookTitle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap12-collection-lecture-source/src/main/java/com/ohgiraffers/hw1/comparator/DescBookNo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap12-collection-lecture-source/src/main/java/com/ohgiraffers/hw1/comparator/DescBookTitle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap12-collection-lecture-source/src/main/java/com/ohgiraffers/hw1/controller/BookManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap12-collection-lecture-source/src/main/java/com/ohgiraffers/hw1/model/dto/BookDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap12-collection-lecture-source/src/main/java/com/ohgiraffers/hw1/run/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap12-collection-lecture-source/src/main/java/com/ohgiraffers/hw1/view/BookMenu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../chap09-ploymorphism-lecture-source/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap09-ploymorphism-lecture-source/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../chap09-ploymorphism-lecture-source/src/main/java/com/hw1/controller/LibraryManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap09-ploymorphism-lecture-source/src/main/java/com/hw1/controller/LibraryManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../chap09-ploymorphism-lecture-source/src/main/java/com/hw1/view/LibraryMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap09-ploymorphism-lecture-source/src/main/java/com/hw1/view/LibraryMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap12-collection-lecture-source/src/main/java/com/ohgiraffers/section01/list/run/application2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap12-collection-lecture-source/src/main/java/com/ohgiraffers/section01/list/run/application2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap12-collection-lecture-source/src/main/java/com/ohgiraffers/section02/set/run/application1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap12-collection-lecture-source/src/main/java/com/ohgiraffers/section02/set/run/application1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,6 +100,7 @@
       <workItem from="1707957110232" duration="599000" />
       <workItem from="1707966522333" duration="4000" />
       <workItem from="1707968729521" duration="3604000" />
+      <workItem from="1708322003243" duration="619000" />
     </task>
     <servers />
   </component>
